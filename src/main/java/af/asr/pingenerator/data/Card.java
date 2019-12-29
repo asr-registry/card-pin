@@ -4,9 +4,6 @@ import af.asr.pingenerator.infrastructure.exception.card.CardException;
 import af.asr.pingenerator.infrastructure.type.PinBlockFormatType;
 import af.asr.pingenerator.infrastructure.type.PinValidationType;
 import af.asr.pingenerator.infrastructure.util.CheckDigit;
-import com.indarsoft.cryptocard.types.PinBlockFormatType;
-import com.indarsoft.cryptocard.types.PinValidationType;
-import com.indarsoft.cryptocard.utl.CheckDigit;
 
 /**
  * Card
@@ -54,7 +51,7 @@ public class Card {
      * Card constructor.
      * <p>
      * @param panNumber input string value
-     * @exception com.indarsoft.cryptocard.card.CardException if a exception in the car build arrives
+     * @exception CardException if a exception in the car build arrives
      */
     public Card(String panNumber) throws CardException {
 
