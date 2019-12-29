@@ -1,5 +1,7 @@
 package af.asr.pingenerator.pki;
 
+import af.asr.pingenerator.infrastructure.exception.pki.DesKeyException;
+
 /**
  * ZPK Zone Pin  Key
  * <p>
@@ -8,7 +10,7 @@ public class Zpk extends DesKey {
 
     private int version ;
 
-    public Zpk (String aKey ) throws DesKeyException  {
+    public Zpk (String aKey ) throws DesKeyException {
 
         super(aKey );
         this.version = 1 ;
