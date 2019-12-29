@@ -1,4 +1,4 @@
-package af.asr.pingenerator.exception.common;
+package af.asr.pingenerator.infrastructure.exception.common;
 
 /**
  * Unchecked exception thrown to indicate a syntax error in a regular-expression

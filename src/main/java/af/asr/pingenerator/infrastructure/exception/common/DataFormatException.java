@@ -1,4 +1,4 @@
-package af.asr.pingenerator.exception.common;
+package af.asr.pingenerator.infrastructure.exception.common;
 
 public class DataFormatException extends IOException {
 

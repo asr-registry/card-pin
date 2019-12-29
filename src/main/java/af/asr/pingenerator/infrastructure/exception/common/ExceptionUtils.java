@@ -1,4 +1,4 @@
-package af.asr.pingenerator.exception.common;
+package af.asr.pingenerator.infrastructure.exception.common;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

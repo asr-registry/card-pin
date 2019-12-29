@@ -1,4 +1,4 @@
-package af.asr.pingenerator.exception.common;
+package af.asr.pingenerator.infrastructure.exception.common;
 
 /**
  * Signals that an error has been reached unexpectedly while parsing.

@@ -5,7 +5,7 @@
  * 
  * 
  */
-package af.asr.pingenerator.exception.common;
+package af.asr.pingenerator.infrastructure.exception.common;
 
 /**
  * Exception to be thrown when date format in filename pattern is wrong
