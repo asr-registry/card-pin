@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>af.asr</groupId>
-	<artifactId>cardprocessor</artifactId>
+	<artifactId>card-pin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cardprocessor</name>
+	<name>card-pin</name>
 	<description>Card Processing Library</description>
 
 	<properties>
