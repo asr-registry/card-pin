@@ -1,5 +1,8 @@
 package af.asr.pingenerator.infrastructure.util;
 
+import af.asr.pingenerator.infrastructure.raw.Ascii;
+import af.asr.pingenerator.infrastructure.raw.Binary;
+
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 public class Hmac {
